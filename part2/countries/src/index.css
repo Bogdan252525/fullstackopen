@@ -1,0 +1,12 @@
+body {
+	font-size: 18px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.block-list {
+	display: flex;
+	align-items: start;
+}
